@@ -1,0 +1,34 @@
+a:hover {
+  text-decoration: none;
+}
+.btn-secondary {
+  background-color: rgba(227, 227, 227, 0.927);
+  color: black;
+  border: none;
+}
+button {
+  width: 250px;
+  height: 50px;
+}
+button:hover {
+  background-color: rgba(198, 198, 198, 0.406) !important;
+}
+.paypal {
+  width: 60px;
+  height: 60px;
+  padding: 4px;
+}
+.uhd {
+  width: 60px;
+  height: 40px;
+  padding: 6px;
+}
+.profilepic {
+  width: 60px;
+  height: 60px;
+  padding: 3px;
+  margin-right: 4px;
+}
+.middle {
+  padding: 0;
+}
